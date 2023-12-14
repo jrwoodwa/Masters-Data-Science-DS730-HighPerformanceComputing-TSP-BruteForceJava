@@ -1,9 +1,9 @@
-Problem 2, Part A
-Multithreading Traveling Salesperson Problem (TSP)
+# Problem 2, Part A
+### Multithreading Traveling Salesperson Problem (TSP)
 
 Main Java code:
-FinalRunner.java
-PermutationGenerator.java
+- FinalRunner.java
+- PermutationGenerator.java
 
 There are folders containing the same named input2.txt file but with differing square matrices according to the problem size for 4, 7, 10, 12, and 13. To test out different runs, I would copy the input2.txt file from the folder and rerun it with the substituted input2.txt file.
 
